@@ -1,4 +1,4 @@
-Simple Student Management System
+Online Course Website
 
 Part/panel of Application:
 
@@ -15,7 +15,7 @@ Website
 		Subscriber Section
 		Notice Section
 		A Footer Section
-	Couser Detail
+	Course Detail
 		Individual course detail info 
 	Login Page
 		Login Form
@@ -49,7 +49,7 @@ Feature Of Our Simple Project
 - Student can see detail specific course info.
 
 - Student can enrolled courses.
-- Student will atuo register & email notified when he enrolled a course.
+- Student will auto register & email notified when he enrolled a course.
 - Student can not enrolled same course twice.
 - student can login.
 - Student have dashboard which show all enrolled course with status.
@@ -57,23 +57,22 @@ Feature Of Our Simple Project
 - Student can change password.
 - Student can register.
 
-- Admin uesr can login.
+- Admin user can login.
 - admin user create & manage new admin user.
 - Amin user create & Manage teacher info.
-- Admin user cna see detail course that is created by teacher.
-- Admin use rcan change the course status.
+- Admin user can see detail course that is created by teacher.
+- Admin user can change the course status.
 - Admin user can active or inactive student status.
 - Admin user can see the student enrolled course info.
 - Admin user can confirm/denay student enrolled status.
 
-- Teacher use can login.
+- Teacher user can login.
 - Teacher user create & mange course.
 - Teacher can not delete ative course info.
 - Teacher user can see his/her approved course.
 - Teacher can see enrolled student info of his/her published couse.
 
 
-Full free student ship
 		
 	
 
