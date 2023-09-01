@@ -7,22 +7,8 @@ Admin Panel
 Student Panel
 Teacher Panel 
 
-Feature list of each part/panel:
-Website
-	Home Page
-		Menu Section
-		Course List with Teacher info	
-		Subscriber Section
-		Notice Section
-		A Footer Section
-	Couser Detail
-		Individual course detail info 
-	Login Page
-		Login Form
-	Registration Page
-		Registration Form
-		Confirmation email
-===================================
+Feature list of each panel:
+
 Admin Panel:
 	Login & logout system
 		
@@ -30,20 +16,20 @@ Admin Panel:
 	Admin manage teacher course
 	Admin manage student registration
 	Confirmation email
-===================================
+
 Teacher Panel
 	Login / logout system
 	Teacher create, update course
 	Teacher can see his or her published course
 	Teacher can see enrolled student
-===================================
+
 Student Panel
 	Login / logout system
 	Student can see total apply couse
 	Student can see total approved couse
 
 
-Feature Of Our Simple Project
+Feature Of my Project
 
 - A Website that contain different course info dynamically.
 - Student can see detail specific course info.
