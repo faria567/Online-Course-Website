@@ -93,7 +93,7 @@
         <hr class="bg-white mt-5"/>
         <div class="row">
             <div class="col-12">
-                <p class="text-white text-center mb-0">Copyright@2022, All right received by BASIS SEIP PWLFB-3</p>
+             
             </div>
         </div>
     </div>
